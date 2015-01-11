@@ -12,7 +12,7 @@ githubに登録した公開鍵に対応する秘密鍵を `/path/to/project/scri
 秘密鍵にパスワードを設定している場合、`/path/to/project/script/keys/password_for_private_key` に記述してください。
 
 ```
-yum install -y expect
+yum install -y expect git
 ```
 
 参考: `/path/to/project/script/install/root/common.sh`  
