@@ -1,1 +1,1 @@
-yum install -y expect
+yum install -y expect git
