@@ -4,7 +4,7 @@ expectコマンドを試してみた。
 ## 概要
 
 `vagrant up` 実行時に個人のレポジトリを、httpsではなくsshで、自動的にvagrantユーザにインストールする。
-今回の対象は https://github.com/tarata/dotfiles
+今回の対象は https://github.com/tarata/expect-command-getting-started
 
 ## 準備
 
